@@ -21,17 +21,24 @@
    <i>⚡️Ouve o coração, sei do meu caminho e minha missão, Deus me fez um campeão ⚡️</i>
   </h5>
 
-  <img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+<br>
+<br>
+<h1 align="left">About Me</h1>
+<div display="flex">
+   <div>
+  <img width="200px" align="right" src="images\eu.png">
+</div>
 
-  <br><br>
 
 <div display="inline-block">
+<br>
+<h3>
  <p align="left">🤙🏼 Sou o Flávio, tenho 24 anos e moro em Itapevi-SP;</p>
  <p align="left">
    📚 Estudando Desenvolvimento de Sistemas no Senai;
  </p>
  <p align="left">
-   📌 Tenho estudado Java e a base do Front-End (<i>HTML, CSS e Javascript </i>) e atualmente iniciei os estudos para desenvolver aplicativos mobile;
+   📌 Tenho estudado Java e a base do Front-End (<i>HTML, CSS e Javascript </i>) e  iniciei os estudos para desenvolver aplicativos mobile;
 </p>
 <p align="left">
    💰 Atualmente trabalho como Estágiario em Desenvolvimento Mobile - Flutter;
@@ -40,5 +47,16 @@
 <p align="left">
    🎮 Gosto de animes, games, séries, futebol e faço uns desenhos legais;
 </p>
- 
+ </h3>
+</div>
+</div>
+
+<br>
+<br>
+
+<div>
+   <h1>Languages & Tools 👨🏼‍💻🛠</h1>
+   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+
+
 </div>
