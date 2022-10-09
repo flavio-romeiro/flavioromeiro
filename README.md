@@ -76,3 +76,5 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=flaviogsromeiro&theme=react-dark&bg_color=23073b4c&hide_border=true" width="100%"/>
 
 ![Snake animation](https://github.com/flaviogsromeiro/flaviogsromeiro/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/flaviogsromeiro/flaviogsromeiro/blob/output/github-contribution-grid-snake.svg)
