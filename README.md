@@ -56,7 +56,23 @@
 
 <div>
    <h1>Languages & Tools 👨🏼‍💻🛠</h1>
+<code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title = "Flutter"/></code>
+   <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title = "Dart"/></code>
    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-
-
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code> 
+<code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 </div>
+<br>
+<div>
+   <h1>Quick stats about me</h1>
+   
+</div>
+
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=flaviogsromeiro&show_icons=true&title_color=2306d6a0c&icon_color=2306d6a0&text_color=9f9f9f&bg_color=23073b4c) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviogsromeiro&show_icons=true&title_color=2306d6a0c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+<img src="https://activity-graph.herokuapp.com/graph?username=flaviogsromeiro&theme=react-dark&bg_color=23073b4c&hide_border=true" width="100%"/>
+
+![Snake animation](https://github.com/flaviogsromeiro/flaviogsromeiro/blob/output/github-contribution-grid-snake.svg)
