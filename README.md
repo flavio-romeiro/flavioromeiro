@@ -4,13 +4,13 @@
 
 <div>
    <div align='center' >
-   <a href="https://www.linkedin.com/in/flavio-romeiro/"><img height="30" src="images\linkdin.png"></a>&nbsp;&nbsp;
-   <a href="https://api.whatsapp.com/send?phone=5511960183599"><img height="28" src="images\whatsapp.png"></a>&nbsp;&nbsp;
-   <a href="https://t.me/flavio_romeiro"><img height="29" src="images\telegram.png"></a>&nbsp;&nbsp;
-   <a href="https://discordapp.com/users/flavio-romeiro#2671"><img height="30" src="images\discord.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/flavio-romeiro/"><img height="30" title="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
+   <a href="https://api.whatsapp.com/send?phone=5511960183599"><img height="30" title="Whatsapp" src="https://img.icons8.com/color/240/000000/whatsapp--v1.png"></a>&nbsp;&nbsp;
+   <a href="https://t.me/flavio_romeiro"><img height="30" title="Telegram" src="https://img.icons8.com/fluency/240/000000/telegram-app.png"></a>&nbsp;&nbsp;
+   <a href="https://discordapp.com/users/flavio-romeiro#2671"><img height="30" title="Discord" src="https://img.icons8.com/color/480/000000/discord-logo.png"></a>&nbsp;&nbsp;
  </div>
 
-<div align="center" style="font-size:20px">
+<div align="center" style="font-size:40px">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙅🏻‍♂️ Flávio Romeiro | 📱 Mobile Developer | 🛸 São Paulo, BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 </div>
