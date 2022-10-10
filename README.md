@@ -10,14 +10,14 @@
    <a href="https://discordapp.com/users/flavio-romeiro#2671"><img height="30" title="Discord" src="https://img.icons8.com/color/480/000000/discord-logo.png"></a>&nbsp;&nbsp;
  </div>
 
-<div align="center" style="font-size:40px">
+<div align="center" style="font-family: times, serif; font-size:11pt; font-style:italic">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙅🏻‍♂️ Flávio Romeiro | 📱 Mobile Developer | 🛸 São Paulo, BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 </div>
-
- <h5 align="center">
+<br>
+ <div align="center">
    <i>⚡️Ouve o coração, sei do meu caminho e minha missão, Deus me fez um campeão ⚡️</i>
-  </h5>
+  </div>
 
 <br>
 <br>
@@ -30,7 +30,7 @@
 
 <div display="inline-block">
 <br>
-<h3>
+<div width="100">
  <p align="left">🤙🏼 Sou o Flávio, tenho 24 anos e moro em Itapevi-SP;</p>
  <p align="left">
    📚 Estudando Desenvolvimento de Sistemas no Senai;
@@ -45,7 +45,7 @@
 <p align="left">
    🎮 Gosto de animes, games, séries, futebol e faço uns desenhos legais;
 </p>
- </h3>
+ </div>
 </div>
 </div>
 
@@ -62,10 +62,10 @@
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 </div>
 <br>
-<div>
+
    <h1>Quick stats about me</h1>
    
-</div>
+<div align="center">
 
 | Github Stats | Top Languages |
 | --- | --- |
@@ -73,6 +73,6 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=flaviogsromeiro&theme=react-dark&bg_color=23073b4c&hide_border=true" width="100%"/>
 
-
+</div>
 
 
