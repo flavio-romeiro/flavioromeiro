@@ -35,11 +35,8 @@
  <p align="left">
    📚 Estudando Desenvolvimento de Sistemas no Senai;
  </p>
- <p align="left">
-   📌 Tenho estudado Java e a base do Front-End (<i>HTML, CSS e Javascript </i>) e  iniciei os estudos para desenvolver aplicativos mobile;
-</p>
 <p align="left">
-   💰 Atualmente trabalho como Estágiario em Desenvolvimento Mobile - Flutter;
+   💰 Atualmente trabalho como Desenvolvimento Mobile Pleno - Flutter;
 </p>
 
 <p align="left">
